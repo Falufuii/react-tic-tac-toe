@@ -7,7 +7,7 @@ import {
   deriveWinner,
   deriveGameBoard,
   deriveActivePlayer,
-} from "./GameInitialSet";
+} from "./components/GameInitialSet";
 import GameOver from "./components/GameOver.jsx";
 
 const PLAYERS = {
