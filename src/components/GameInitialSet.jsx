@@ -1,4 +1,4 @@
-import { WINNING_COMBINATIONS } from "./winning-combinations.js";
+import { WINNING_COMBINATIONS } from "../winning-combinations.js";
 
 const INITIAL_GAME_BOARD = [
   [null, null, null],
